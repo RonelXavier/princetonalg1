@@ -14,8 +14,6 @@ class QuickUnion:
         # Replace components containing two objects with their union.
         self.id[self.root(p)] = self.root(q)
 
-        
-
 myuf = QuickUnion(10)
 myuf.union(3,7)
 myuf.union(7,5)
