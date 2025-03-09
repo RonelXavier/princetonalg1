@@ -1,2 +1,2 @@
 # princetonalg1
-This is a python implementation
+A python implementation of the java example code used in the Princeton Algorithms I course.
